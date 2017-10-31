@@ -22,7 +22,12 @@ Using git allows us to upload all of our digital work to GitHub, which lets it a
 
 https://www.youtube.com/watch?v=EUvmCuPjHD4
 
-^^ This is a good general explanation of the video.
+(Ignore the part about publishing online and syncing
+ with online for now -- it will make sense later)
+
+^^ This is a good general explanation of git and GitHub;
+
+ignore the developer speak (it's not particularly important, what is important is seeing you can upload files and see changes over time)
 
 ## What do I do to get it working on my computer?
 
